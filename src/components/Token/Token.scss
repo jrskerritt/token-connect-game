@@ -1,0 +1,15 @@
+@import '../../styles/colors.scss';
+
+.token {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+
+  &--one {
+    background-color: $red;
+  }
+
+  &--two {
+    background-color: $blue;
+  }
+}

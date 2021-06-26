@@ -1,0 +1,10 @@
+@import '../../styles/dimensions.scss';
+
+.column-selector {
+  display: flex;
+  gap: $gridSpacing;
+
+  button {
+    width: $columnWidth;
+  }
+}
