@@ -30,7 +30,7 @@ If this were to be deployed and hosted somewhere:
 $ npm run build
 ```
 
-## Things I didn't get around to
+## TODO
 
 * Proper production bundles
   * CSS extraction and minification
