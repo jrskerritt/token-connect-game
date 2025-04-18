@@ -1,3 +1,5 @@
+# 🗒️ Disclaimer: This is a take-home assignment for a job application from 2021 and does not reflect how I would build web application today.
+
 # Token Connect Game
 
 ## Getting Started
